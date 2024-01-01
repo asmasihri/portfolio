@@ -1,0 +1,61 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.image {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.image img {
+    width: 200px;
+}
+
+.div {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.b {
+    font-weight: bold;
+}
+
+.div ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.div li {
+    margin-bottom: 10px;
+}
+
+.div img {
+    width: 100%;
+    border: 1px solid #ddd; /* Ajoute une bordure légère autour des images */
+    border-radius: 4px; /* Arrondit les coins des images */
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Ajoute un peu d'espace en bas pour les cas de tests */
+#cas-de-tests {
+    margin-bottom: 20px;
+}
+
+#cas-de-tests img {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-top: 10px;
+}
