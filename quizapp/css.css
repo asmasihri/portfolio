@@ -35,7 +35,8 @@ body {
 
 /* Style for the video */
 .videoo {
-    width: 50%; /* Set the desired width percentage */
+    width: 80%; /* Set the desired width percentage */
     margin: 20px auto; /* Center the video horizontally with top and bottom margins */
     display: block; /* Ensure it's a block element for centering */
+    
 }
